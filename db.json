@@ -1,0 +1,134 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "Nixon",
+      "alterEgo": "Silent",
+      "id": 4
+    },
+    {
+      "name": "eren",
+      "alterEgo": "PogingNixon",
+      "id": 5
+    },
+    {
+      "name": "Mikasa Ackerman",
+      "alterEgo": "erehhhhh",
+      "id": 6
+    },
+    {
+      "name": "Mutating",
+      "alterEgo": "Titan",
+      "id": 7
+    },
+    {
+      "name": "xxx",
+      "alterEgo": "xfddfdfd",
+      "id": 8
+    },
+    {
+      "name": "bmwx",
+      "alterEgo": "Pogi",
+      "id": 9
+    },
+    {
+      "name": "strawberry",
+      "alterEgo": "Pogi",
+      "id": 10
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Chandler Bing"
+    },
+    {
+      "id": 2,
+      "name": "Joey Tribbiani"
+    },
+    {
+      "id": 3,
+      "name": "Rachel Green"
+    }
+  ],
+  "users": [
+    {
+      "id": "nixonlim@example.com",
+      "channelId": "codingFuture"
+    }
+  ],
+  "channels": [
+    {
+      "id": "codingFuture",
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "name": "Blue"
+    },
+    {
+      "id": 2,
+      "name": "Red"
+    },
+    {
+      "id": 3,
+      "name": "Green"
+    },
+    {
+      "id": 4,
+      "name": "Yellow"
+    },
+    {
+      "id": 5,
+      "name": "Violet"
+    },
+    {
+      "id": 6,
+      "name": "Orange"
+    },
+    {
+      "id": 7,
+      "name": "Black"
+    },
+    {
+      "id": 8,
+      "name": "White"
+    },
+    {
+      "id": 9,
+      "name": "Pink"
+    },
+    {
+      "id": 10,
+      "name": "Light green"
+    },
+    {
+      "id": 11,
+      "name": "Brown"
+    },
+    {
+      "id": 12,
+      "name": "Blue na black"
+    }
+  ]
+}
